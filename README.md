@@ -29,4 +29,4 @@ In our analysis, we found that several factors were associated with house prices
   
 * Maintain and update older properties: Regular maintenance and updating of older properties can help maximize their value in the market.
 
-  ### The [notebook](https://github.com/NyawiraFaith/Phase_2_project/blob/main/phase_2_project.ipynb)
+  ## The [jupyter notebook](https://github.com/NyawiraFaith/Phase_2_project/blob/main/phase_2_project.ipynb) and [presentation](https://www.canva.com/design/DAFoKjJa0yY/n-ve5NxqvKS11Z0RxWHSYA/edit?utm_content=DAFoKjJa0yY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) can be accessed here.
